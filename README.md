@@ -29,7 +29,7 @@ OS name: Linux, version: 6.18.33.2-microsoft-standard-WSL2
 
 ## Тестүүд
 
-Нийт 16 тестийн метод бичсэн.
+Нийт 18 тестийн метод бичсэн: 16 `@Test` болон 2 `@ParameterizedTest`.
 
 `results/mvn-test.txt` файлын дагуу нийт 26 тестийн тохиолдол ажилласан:
 
